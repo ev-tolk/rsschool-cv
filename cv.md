@@ -7,6 +7,8 @@
 
 
 **Phone**: +375 44 7418476
+
+
 **E-mail**: ej.tolk@gmail.com
 ****
 #### Briefy About Myself: ####
@@ -52,3 +54,18 @@ function deleteTodo(){
     }
 }
 ```
+
+****
+#### Courses: ####
+
+* HTML, CSSm JS course on Ormedia (completed)
+* RS School Course "JavaScript/Front-end. Stage 1" (in progress)
+
+****
+#### Languages: ####
+
+
+* English - B1 (Intermidiate)
+* Russian - Native
+* Belarusian - Native
+* Ukrainian - Pre-Intermidiate
